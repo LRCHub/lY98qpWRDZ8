@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今日とまだバイバイしたくないの",
+  "base_artist": "長瀬有花",
+  "createdAt": "2026-02-08T08:12:48.745604Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日とまだバイバイしたくないの",
+      "artist": "長瀬有花",
+      "has_synced": false,
+      "path": "select/pl_01_今日とまだバイバイしたくないの_長瀬有花.txt"
+    }
+  ]
+}
